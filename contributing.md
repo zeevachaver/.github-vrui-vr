@@ -38,7 +38,7 @@ Before asking a question:
 > [!TIP]
 > If you're searching for discussions, check out the Discussions page in each relevant repository on GitHub. ![Location of Discussions](assets/GitHub_Header_Discussions.png)
 
-If you you still need clarification and would like to ask a question, please do so in the Discussion forum.
+If you still need clarification and would like to ask a question, please do so in the Discussion forum.
 
 > [!TIP]
 > If you're unsure whether to open a Discussion or an Issue, read the following guidelines. Use Discussions for general questions, such as how or why a feature works, or how to use or get started with Vrui. Use Issues for feature requests and bug reports. A quick rule of thumb: if your topic requires changes to code by Vrui maintainers, open an Issue; otherwise, start a Discussion.

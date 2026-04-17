@@ -22,7 +22,7 @@ The Project is lead by a Steering Committe that is currently comprised of the fo
 
 * [Dr. Frank Klassner](http://www.csc.villanova.edu/~klassner/), Department of Computer Science, Villanova University.
 * [Dr. Oliver Kreylos](https://datalab.ucdavis.edu/team/), University of California Davis, DataLab
-* [Dr. William Sherman](https://www.nist.gov/people/william-sherman), United States National Institute of Standards and Technology]
+* [Dr. William Sherman](https://www.nist.gov/people/william-sherman), United States National Institute of Standards and Technology
 * [Dr. Carl Stahmer](https://datalab.ucdavis.edu/team/), University of California Davis, DataLab
 * [Dr. Simon Su](https://www.nist.gov/people/simon-su), United States National Institute of Standards and Technology
 
