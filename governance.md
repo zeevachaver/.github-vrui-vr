@@ -22,12 +22,12 @@ The Project is lead by a Steering Committe that is currently comprised of the fo
 
 * [Dr. Frank Klassner](http://www.csc.villanova.edu/~klassner/), Department of Computer Science, Villanova University.
 * [Dr. Oliver Kreylos](https://datalab.ucdavis.edu/team/), University of California Davis, DataLab
-* [Dr. William Sherman](https://www.nist.gov/people/william-sherman), United States National Institute of Standards and Technology]
+* [Dr. William Sherman](https://www.nist.gov/people/william-sherman), United States National Institute of Standards and Technology
 * [Dr. Carl Stahmer](https://datalab.ucdavis.edu/team/), University of California Davis, DataLab
 * [Dr. Simon Su](https://www.nist.gov/people/simon-su), United States National Institute of Standards and Technology
 
 
-Decision making is conducted by the Steering Committee using a Consensus decision-making process under which participants work together to develop proposals for actions that achieve a broad acceptance. Consensus is reached when everyone in the group assents to a decision.  A minority of individual members may choose to "Stand Aside" as part of any decision-making process and concensus will still be determined to have been achieved.
+Decision-making is conducted by the Steering Committee using a Consensus decision-making process under which participants work together to develop proposals for actions that achieve a broad acceptance. Consensus is reached when everyone in the group assents to a decision.  A minority of individual members may choose to "Stand Aside" as part of any decision-making process and concensus will still be determined to have been achieved.
 
 The Vrui Organization Steering Committee is responsible for all business decisions affecting the organization, for developing and maintining the Organization's Development Roadmap as well as the Development Roadmap for the [Vrui Toolkit](https://github.com/vrui-vr/vrui), and for receiving, reviweing, and acting upon any reports of any violations of the Vrui Organization [Code of Conduct](https://github.com/vrui-vr/.github/blob/main/CODE_OF_CONDUCT.md).
 

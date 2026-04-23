@@ -30,17 +30,17 @@ See the [Table of Contents](#table-of-contents) for details regarding how Vrui c
 Before asking a question:
 - Search for existing issues in relevant repositories that might help you. If you have found a suitable issue and still need clarification, you can write your question in the comments of issues.
 
-> [!TIP]
+> [!tip]
 > If you're searching for issues, check out the Issue page in each relevant repository on GitHub. ![Location of Issues](assets/GitHub_Header_Issues.png)
 
 - Search for existing posts in the Discussions forum of relevant repositories.
 
-> [!TIP]
+> [!tip]
 > If you're searching for discussions, check out the Discussions page in each relevant repository on GitHub. ![Location of Discussions](assets/GitHub_Header_Discussions.png)
 
 If you you still need clarification and would like to ask a question, please do so in the Discussion forum.
 
-> [!TIP]
+> [!tip]
 > If you're unsure whether to open a Discussion or an Issue, read the following guidelines. Use Discussions for general questions, such as how or why a feature works, or how to use or get started with Vrui. Use Issues for feature requests and bug reports. A quick rule of thumb: if your topic requires changes to code by Vrui maintainers, open an Issue; otherwise, start a Discussion.
 
 - Open a Discussion.
@@ -59,7 +59,7 @@ Before opening a bug report, please make sure:
 - The bug is not caused by a misconfiguration or incompatible environment components/versions.
 - The bug has not already been reported (check existing Issues and relevant online discussions).
 
-> [!WARNING]
+> [!warning]
 > Do not report security related problems, vulnerabilities or bugs including sensitive information as issues or elsewhere in public.
 
 To submit a bug:
@@ -97,7 +97,7 @@ Small documentation fixes can be included in any PR that touches relevant code. 
 
 ## Forking and Branching
 
-> [!NOTE]
+> [!note]
 > Angle brackets `<>` in commands below are placeholders, meaning that you have to replace everything between, and including, the angle brackets with some text that depends on your specific circumstances.
 
 1. From the [Vrui GitHub](https://github.com/vrui-vr), navigate to the repository you would like to work on and fork (`Fork` button in top-right)
@@ -123,7 +123,7 @@ git checkout -b <issue-number-description>
 
 Each branch and subsequent pull request should fix only one issue.
 
-> [!NOTE]
+> [!note]
 > Use descriptive branch names, starting with the issue number and followed by a short description. This helps reviewers trace work back to issues.
 
 ## Making changes
@@ -172,7 +172,7 @@ Closes #<issue-number>
 
 This message links your PR to a specific issue and will close the issue when the PR is merged by Vrui maintainers.
 
-> [!NOTE]
+> [!note]
 > For more detailed instructions and alternative issue linking methods, please refer to the following GitHub guide: [Linking a pull request to an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/linking-a-pull-request-to-an-issue)
 
 ### PR Reviews and Merges
